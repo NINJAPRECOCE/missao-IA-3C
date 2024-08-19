@@ -6,17 +6,17 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Pergunta 1",
+        enunciado: "você conhece o esporte mais praticado do mundo?",
         alternativas: [
             {
-                texto: "Alternativa 1 da pergunta 1",
+                texto: "Sim",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "uauuuu você é foda,
+                    "que bom que sabe"
                     ]
             },
             {
-                texto: "Alternativa 2 da pergunta 1",
+                texto: "qual esporte mais praticado?",
                 afirmacao: [
                     "afirmacao 1",
                     "afirmacao 2"
