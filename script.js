@@ -11,54 +11,54 @@ const perguntas = [
             {
                 texto: "Sim",
                 afirmacao: [
-                    "uauuuu você é foda,
+                    "daora",
                     "que bom que sabe"
                     ]
             },
             {
-                texto: "qual esporte mais praticado?",
+                texto: "não",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "muito burro",
+                    "lhe falta conhecimento"
                     ]
             }           
             
         ]
     },
     {
-        enunciado: "Pergunta 2",
+        enunciado: "playstation ou xbox ?",
         alternativas: [
             {
-                texto:"Alternativa 1 da pergunta 2",
+                texto:"playstation",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "bom gosto",
+                    "melhor console"
                     ]
             },
             {
-                texto: "Alternativa 2 da pergunta 2",
+                texto: "xbox",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "renasce na vida",
+                    "pessimo gosto"
                     ]
             }
         ]
     },
     {
-        enunciado: "Pergunta 3",
+        enunciado: "futebol ou volei",
         alternativas: [
             {
-                texto:"Alternativa 1 da pergunta 3",
+                texto:"futebol",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "muito bom",
+                    "daora"
                     ]
             },
             {
-                texto:"Alternativa 2 da pergunta 3",
+                texto:"volei",
                 afirmacao: [
-                    "afirmacao 1",
-                    "afirmacao 2"
+                    "daora tambem",
+                    "mas futebol é melhor"
                     ]
             }
             
