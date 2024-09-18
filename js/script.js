@@ -6,7 +6,7 @@ const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
-const botaoJogarNOvamente = document.querySelector (".novamente-b
+const botaoJogarNOvamente = document.querySelector (".novamente-btn");
 const botaoIniciar = document.querySelector(".iniciar-btn");
 const telaInicial = document.querySelector(".tela-inicial");
 
@@ -59,5 +59,10 @@ function mostraResultado(){
     caixaAlternativas.textContent = ""; 
 }
 
+function substituiNome() {
+    for(const pergunta of perguntas) {
+        pergunta.enunciado = pergunta.enunciado.replace(/voce/g, nome);
+    }
 
-SubstituiNone();
+}
+SubstituiNome();
