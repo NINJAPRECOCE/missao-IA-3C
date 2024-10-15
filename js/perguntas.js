@@ -6,14 +6,14 @@ const perguntas = [
                 texto: "Sim",
                 afirmacao: [
                     "daora",
-                    "que bom que sabe"
+                    "que bom que sabe",
                     ]
             },
             {
                 texto: "não",
                 afirmacao: [
                     "muito burro",
-                    "lhe falta conhecimento"
+                    "lhe falta conhecimento",
                     ]
             }           
             
@@ -26,14 +26,14 @@ const perguntas = [
                 texto:"playstation",
                 afirmacao: [
                     "bom gosto",
-                    "melhor console"
+                    "melhor console",
                     ]
             },
             {
                 texto: "xbox",
                 afirmacao: [
                     "renasce na vida",
-                    "pessimo gosto"
+                    "pessimo gosto",
                     ]
             }
         ]
@@ -45,14 +45,14 @@ const perguntas = [
                 texto:"futebol",
                 afirmacao: [
                     "muito bom",
-                    "daora"
+                    "daora",
                     ]
             },
             {
                 texto:"volei",
                 afirmacao: [
                     "daora tambem",
-                    "mas futebol é melhor"
+                    "mas futebol é melhor",
                     ]
             }
             
