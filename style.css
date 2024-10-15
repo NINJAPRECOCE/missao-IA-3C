@@ -3,7 +3,7 @@
 :root{
     --cor-fundo: #01080E ;
     --cor-principal: #0B0D20 ;
-    --cor-secundaria: #212333;
+    --cor-secundaria: #212333; 
     --cor-destaque: #2BDEFD;
     --cor-texto: #D7F9FF;
 
@@ -12,7 +12,7 @@
 body {
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter', sans-serif; /*add*/
     display: flex;
     justify-content: center;
     align-items: center;
@@ -29,13 +29,13 @@ body {
 
 h1, .caixa-perguntas, .caixa-resultado{
     font-family: 'Chakra Petch', sans-serif;
-}
+} /*add/
 
 h1{
     color: var(--cor-destaque);
 }
 
-button{
+button {
     background-color: var(--cor-secundaria);
     color: var(--cor-texto);
     border: none;
